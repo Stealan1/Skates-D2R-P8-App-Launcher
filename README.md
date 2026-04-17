@@ -12,6 +12,9 @@ Once configured, the system handles the entire flow.
 
 <img width="1280" height="820" alt="Skærmbillede 2026-04-01 184716" src="https://github.com/user-attachments/assets/d0265dbc-1675-4021-aeeb-00ccfb528cf7" />
 
+Remote for 2 PC use
+<img width="240" height="662" alt="image" src="https://github.com/user-attachments/assets/3c42bd94-ac93-4233-b20e-bf11140661e1" />
+
 
 https://github.com/user-attachments/assets/481b659b-3314-4123-bacf-4a0c147b3b1b
 
