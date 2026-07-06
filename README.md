@@ -1,3 +1,9 @@
+**ONLY LICENSE IS LIFETIME 105USD**
+The app will prompt for a monthly price, but this has not been properly implemented. Contact me directly thru the app to purchase a full version.
+
+
+
+
 Link to discord: https://discord.gg/GttDAsrQP8
 Latest test release: https://github.com/Stealan1/Skates/releases/tag/test-release
 Latest beta release:
