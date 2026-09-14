@@ -39,11 +39,6 @@ Skates D2R Hub is free to use. No license required to get started.
 | Macro Maker | — | ✅ |
 | Auto Loader (token / password) | — | ✅ |
 
-> **Free mode** gives you full account management and lets your Main account create and join games.
-> **Premium** unlocks the full P8 automation stack — coordinating all clients simultaneously.
-
-**Premium: Lifetime license — 15,000 FG / $105 USD / €95 EUR. No subscription.**
-
 ---
 
 ## Core Capabilities
